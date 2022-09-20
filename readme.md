@@ -35,11 +35,11 @@ The final dataset contains the combined features listed below from Premier Leagu
 | Dropout rate   |  0.2  | 
 | Epochs         | 70    | 
 
-![Architecture](https://github.com/maciejbalawejder/DeepLearning-collection/blob/main/Sequentials/GRU/figures/Architecture.png)
+![Architecture](https://github.com/maciejbalawejder/Premier_Leagure_Predictions/blob/master/figures/Architecture.png)
 
 ### 4) __Results__:
 - Accuracy on testing dataset : 92%
-![Results](https://github.com/maciejbalawejder/DeepLearning-collection/blob/main/Sequentials/GRU/figures/Loss92.png)
+![Results](https://github.com/maciejbalawejder/Premier_Leagure_Predictions/blob/master/figures/Loss92.png)
 
 ### 5) __Improvements__:
 - Live line-ups 
